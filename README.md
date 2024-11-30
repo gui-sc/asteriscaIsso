@@ -21,8 +21,6 @@ git clone https://github.com/gui-sc/asteriscaIsso.git
 
 First, open the project folder on Android Studio and run the build.
 
-Second, run the following command:
+Second, run the application on the emulator or on your device.
 
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
